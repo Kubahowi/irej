@@ -1,0 +1,250 @@
+{
+  "format": "1",
+  "packages": [
+    {
+      "name": "cmd-webdriver",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "Sencha",
+      "summary": "WebDriver",
+      "detailedDescription": "WebDriver binaries",
+      "type": "extension",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-06-03T21:26:55Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "nUt1YRgvxgM\u003d",
+          "signature": "FTEfFWwltNBVq8u4dyoUY/tBp196vS3VS9LLsWj5YtsKledPBfiYivEopaDqirZ6896X+GUes6O/ja41OVMv0VTx6hJXmrT2i39wX0iS0zCaepzQkzxP0khhtDDFskp45dLzdv49qcE+xNCOaUpVC9+8b055pW3VOa3K0z3Wi/LMJSe8BpdAPJMZcZ4XYLrwPGxFRDKVCy/SYharvQlQk2gU1Ae+yN5iEbuOxBFF1zhtmkybKV1oj03HA9yPlVuA/nSekTdtVPBVxvDNCkRcg/qtLy2Rnwm8GnChPkCmOAb9ldIVroO7tidGJ+REhqQktBpcuXFKLdElq32drKEFEFp4iDHJxCPkWthiQSQwDynGet6pefZa0jC2uwMDiXOOSpyki2bLmUs+tEqi7Hwj480eAlul9J74y9KbJW9BhGoFdw43oioyAJtPAx/qherpdNLoAeyVZFUIGu8poW2xWnET6Mp5MjT1EfvGogSm/PUI7nk+Mp20vYLaqRWccQKHJC00U04EevZvyZwinmW/19S5ALgrxl3A2tdaZ995a4BZNU37U8/ZkiRMjvFzSFYdZW4P0RQYXgedQL/Vpnwy9K5yIutXb1GnDCxyi3ML3vqO0TXINOeNNryInwKjgkWZWbxa0HKhshU3ooaRn9W/JFn9DJAcYsK1gln0Vjx6e/g\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext",
+      "format": "1",
+      "version": "5.0.0.732",
+      "compatVersion": "4.0",
+      "creator": "Sencha",
+      "summary": "Ext JS",
+      "detailedDescription": "Sencha Ext JS JavaScript Framework",
+      "type": "framework",
+      "requires": [
+        "sencha-core"
+      ],
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2014-04-02T18:35:13Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "rCnttbUPyds\u003d",
+          "signature": "qEruFIvh3cL51gt8/z7I/dOwoWsdCdDl1wLzTg5AB4McW416d+FzaqCMJjG20NM1oayVQHKcjIabqmtY4BYvHErmji/0cbC9e+azaf+ZTJi845kW3NkASofRmMNyjqVOmxAFTEyu6XMyRWx7D54asrOU+KnJ8gqEuUjnIlhIw/lm0Qukqv7XxKlNyb/gviLHvp4lVvrdB794wqIwmjl+OML7i5CSPVpkL+UVixqqZq6ZDBMzW8awWmcMGqpSlRtOLEXSG7OakkcawUseFDwPKllBU6cCSaI9jW5zjqVRon8ROMhJYu2w+bVN8TLoY+pwaA2BkZ9s8zMgBKfKymKJ0eq/WVcTIFHOftk9lQTh2D8y1m+qRtS8oHSvBcb6TkrsXKv0mQABJ6Inr17QqpkjzvnhIrg31IptzhDVYdZxQGVewr0SFf6DytRsoPIaIHnOTBozXfnLRVo1DwzC5fLW4pthbRVeIeR0ynbwPL+eeV0lj4CUB++9HBnvTHbAeK+SflbDbd6da6QTDfuC2LEVtz+krg2oyr3lbs6PFNH7UWbORP2GhZI2+wTAHkK2dghVNSLWTMxx4Uz9xZrBwk2VsKeXUIYGGhO5k2dhkvbRQHYlZk3p0+SS1F75k00cMB1rlAlzgt/2bXv/GQu5XmOqIz8Vdut3sTtbrxvE5TcAh7s\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext",
+      "format": "1",
+      "version": "5.0.0.736",
+      "compatVersion": "4.0",
+      "creator": "Sencha",
+      "summary": "Ext JS",
+      "detailedDescription": "Sencha Ext JS JavaScript Framework",
+      "type": "framework",
+      "requires": [
+        "sencha-core"
+      ],
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2014-04-03T04:19:00Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "xO67zYfNFNE\u003d",
+          "signature": "MxU2rP/5k/Fc6DFBq+5wprp2mSwdTw3VSbvFwCuDTHlO3pzJVTn3GtpI7WjnJU7jD1eSo7A7kWbJZAjX0hYNt7aFU78un/OJhvDzZ2q7ORORhh8rkGs1ZVtT9l1b/JtiYuKBGg64cJ16Rnk0Iu/MtbVNx+VbLoPpdyi+sXPAy5k7rNHbS9EVRk++BlNt5SxlIZ4FOa5Tu3FNME0eTHcZjzVqOPcmWsCvK2kBHE08N410E3NgdoHq7jNLGn/CfjfoAFTEioevUbMpH4sWQZ6UHsYJpFSlgQChA2pNZpxVrNjV3t/JH1PdYB2HgbufRNKKL5ivhWew7nRWVpH9bZ5MQZEXLKbBbOZP8CGKKpOlqoG/vqk+YT8UniKrdtQGGA3607kkI5mrDHHRo4Z/VonhBs3oWXtOWzGZKnh82YUzkSt3CIneUt91aDPPBBGSdRzXpEYPMsbXjXEf4C7LNfFP8zvapEahhXsTjURRr5kgK05XrQKjiuRlphSapjcsMlrNIWi7GZRlSWTvPnEb6aT12SqVnQrIEXTWku1hevxJmPChVWlMPBDBLvJqwoJwEdYWeAcFg2wwF6EYlstUw9OSZ4DAkVOLWz9lDM0uq91rBPJVRimAaOuu7YCVUN0a5lX6u/34ifvdeOVokid/yG25Vs5bJbl4pp+VPO+T3Iv5e1U\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-aria",
+      "format": "1",
+      "version": "1.0.0.26",
+      "compatVersion": "1.0",
+      "creator": "Sencha",
+      "summary": "Ext JS Accessibility Support",
+      "detailedDescription": "Core support for Accessibility, ARIA and Section 508 for Ext JS 4.2.1+",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-04-10T21:53:08Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "nLBWswWaePs\u003d",
+          "signature": "R4TPBMav5GkPoHguPXoaRtXnne6ARm5nys5MM+dfDAgFq2Xrgx/80B1ch9FxEGVJHsyo6JbOqFGXJnm0NIhBaOGmtDU8TNsHzoh/k9Ul1o7Tc2oY5gVkfaIutjAkHoXWPiCBBAAEzj+p2TLhlvXwtHpSaKIMp49HyKJPK8mB4+kzVdsb3GCFTTerkJ3Q/rRuAuDRUa/biXPc8YCl1fRWOAfKxmZ5lkDgg0Aq12zSaCCrxsODUavD6N2D2L9ywBWiniYxtdDXBzQMuXV99r9slM/9zoKpCQzgHKcmgvIB6SM9YQ9oDN6YbJhgKl9V8lBy97RR3q+/qTFw5G/AcVFRCStfERo5IcLHvtbWJiRr8M2rbUV2cgl6PsmCmf+g5DZn+K8E2MVlJ+jREgl3NUCEtveY4MyFQq0IprDy/DTiDeY4UNS/tQPUDJR7s2MFLMMx8arSd6dBGIt3XPvnZJyqzwsE+4Su3XF+sqC6Bkr03QW+sugiRTQBKAq6UBKzLWceV4Z9xEUJVCCKzCZUzD/6vuiPHGsj0rW5mnjU+C7pCAdR6wYZQNrMzFGI3zD3A6NYPx+V9iaxXtTCrMRLvMk/k+j2BHDVRNnDYCJOlEZGU1fsCT+XGTOM+80GgvC9dl/n2chsz8qMvIhaMC5lovcZtMZ53ZiHiLh7/itwFyqn92k\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-aria",
+      "format": "1",
+      "version": "1.0.0.31",
+      "compatVersion": "1.0",
+      "creator": "Sencha",
+      "summary": "Ext JS Accessibility Support",
+      "detailedDescription": "Core support for Accessibility, ARIA and Section 508 for Ext JS 4.2.1+",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-07-05T23:32:25Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "L7UCNLRApxs\u003d",
+          "signature": "g54/9JN62yz9Uit3VX9t7Qs7JsLwufDwKK2qRC8Jge6kpJpsKu4U6Hwy/bHVTXTvm+1XJiXgsejrShzwUqirR2YZGMZlk/5ErNHlgETtVALKm41xcpUaL5xx4/oj2r7bW3ufE0Dskk77Xpmy+g/viYNaks+XWf9dQ9f+ynvYD6e6wEEYu+Bxv5UVR7CLFeTbPXNxTSDSl1bc8gIzXhEFqE5GZQ45SendjzsQVcpfId7TGr6IxJbnw1mR6ujOlxRk4qMzuiOuujCXGYkRJ+gjkw9NR5F7OlUdPiU+s0TMogdHOAbV4D8I0JwbIxR9u4OL4i0WbrH0yoCRALbb+wLmzJe/0RqHOni3xeVSJixsHUX5tSCB/kM3ksvMJilf2mFMLSEKHHC/NmZ4Bwhfb+jic6x+ihkMbTeerHN7emKxs17UfO3kHPPMX5cphrrxj2GvWWgU9nk8Y8OyFCkaRn9VAFD51XNF1xFh+iI60f32Up2n1UhA2ug7VE1pV5EQjJYMEUhmbuBsPB0KlCuWkqBYHSfE0zp+zpmJ6J+DGAJwWTzBx6tRotluHL07MsbYrVekxZyuOErkYbrFM74hEIi6uTOaGmNOkXqpxCi95MaAftI9+Ale6hDfU50AEIB2ZWEd+PMlzXhhnTDitHZ56g4TJ4YRJkwY+E4XPIkYeNTKhC0\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-aria",
+      "format": "1",
+      "version": "1.0.0.35",
+      "compatVersion": "1.0",
+      "creator": "Sencha",
+      "summary": "Ext JS Accessibility Support",
+      "detailedDescription": "Core support for Accessibility, ARIA and Section 508 for Ext JS 4.2.1+",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-05-06T20:03:25Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "M1aC1/qJJ+4\u003d",
+          "signature": "EurZmG1VVe/X2nAEdIX0VB7A3gDU5ExETmxyc7lkJF7gxTrKOLFlAOVHIMGAPAUTD0pFdvk9bnuKIF2qVIrT0W4ul0I3ZBgyszBXWllJqs0hWgWmXcnaAEmlCTHnIXeCC5pShrV5BQrCKS0M5WhulH6F6bVvJNejvdJYqnOrqeyPw1ryrzbV9nhKG5kaI3grmlhTW+iMP6MeHp02n7Za7v9iyAxakqEEcWD6DM4ho8Jh84h6UEAjc/2C4PP/VAm1U0a/uw3CmzvMBGx03yjx7ioTrA08ZEhA39yrr9naPUqW/a12zdApHvN+v6h3pWwOVzZR7uMeAASdDdTK62BbJNh42ue/0y+8640ARUt5gQrE8Ju3ckfJRAb91qQRfHBltz9LhB9h11aLBb03ggWqOsMmIAP+PPfFfen0olJ1puEUEvGVJRgqhueSJ4/pCn7mlYqiJtgQipmYkBZete/nW4vWB9g/VqTfuktLP2RyI3JsDAA/G+XF7Rd7jRwjG/NlGJiCl8ylgm6qSkYivkw8HTd9Im+RJ0pWgm9KF7Q9uNWTLVOKd4AfQU67yD30KlLBR0x3/AzxfK68rFiIP+sDwfhoGI8gvSuENr5a0CRzy3gCYwjqO6grFSvUh9qcNF5OLU455Gog8TmSiWlZJXs1CWZY5G5ff7piTL+WAbt0XgI\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-aria",
+      "format": "1",
+      "version": "1.0.0.86",
+      "compatVersion": "1.0.0",
+      "creator": "Sencha",
+      "summary": "Ext JS Accessibility Support",
+      "detailedDescription": "Core support for Accessibility, ARIA and Section 508 for Ext JS 4.2.1+",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-09-10T00:16:26Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "YRD+Btew53s\u003d",
+          "signature": "FcTxTAER1HyzN2pxxiCBdi5+ltyHZEzfHbiSQVuE8lFS1beAQGMLKfhkiMlYnMnaBAtBtlhOXqnVI88NgGfBlitjGoxCOTx0ldbXYrXg2XFAdKRQkojGldtZMR/vpDktZvZlods8qopbvMFDCk68N0w8IpIJ7qVvgyCJ0LigJwOMXh4BB0ob+wzD4BlA+jsp/lEfww2lnVzSuWKLtWt9HhYdIrLgcJoD7EJalzIrOpkcSspT8frrmB3mH23fLfK6n7FinsrLVuXyegjwV0E7xI3oOVnWOMmpdhkidL9B7x7JHKmNUDlqRLXa+KUK624bJhrm0gHIFMUAMnFX0R7NFLc6+nU7Po5aLXXl8I5UxwKQePsasaJuqk8anEN2eh3a4Ib6jwM7uqlbLQd/Z4TIPBBYBiuGa6TEWgpxuHL8jpB+apCVrwQLv4qn69WAI/OvclCSnjnzEOt/DsTN2f1sBgtc5PeQU9hoA6kSaZNRXOtVARUzgRcn/EpQoVigW6rpV62tGB6zkpuzo4sSPiMOoJRAbXFLd3kIVv3GtGmHxSZrNMOK4KlEu3QuJUfGCPO56V/WB1O0nQi+2y8168225zXd1GpuYy+jFa58vzzW/hPycUIdUkizUgGw/OL31OBVc9GiRn6XBhtaEfC5znR6FLp/JKZtNlKVn7N331h0geM\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-easy-button",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "Sencha",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-04-03T17:36:37Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "EmSMrNY104s\u003d",
+          "signature": "EJ94OggfkL6AzU4DOwdF6bSqk25xxzHAMA6VpdkM9+ohWZiO7SqB1LYvRqfU3PpPKQWxF5inbQAb5MliA4GKeKXRcW+uEneFffmszqkYTUe254lmuQVEU3SpYL9twzKQI5RA6sSZtJ+uyG9shhfhA7DuOsarowI6OVLKZPjX7GKay3udOY+9ZBwJZd+/Jwh2JEhJMCpAs549JLMD8Q87AhTjghUuB/SaCtHNyUhhGtmtekuv9i3xfV/mZnhyaVSKdChlJmbFpFjLFR2eUbup/pECAZ9NP0tAfC7AT7dXNDSICWj0nUn6ztjQDL7RXUk1Nm3sGQE2WFu5qN0CwbEIgiJJS6DJyF3mDN1wtNzkGr2/6GOqydRDCrLEWTw6C6aAKlIg5tx7ngGw0O+PxEEtN35XTgXN7EreBgmq4k72nTdnjxFD381WNRd/QLRuWCWSvaOh3rAvX8Zy3KJ2DyGkul8msswoTaRqkodnWlzvxfJvpnPOv2gb+WOYOpbwA3lVaKN9QIApLs7MxTi9aTqblCEm6+DnBNrXgHGO97UAztZf9EuiblE8aMMQYO2nzdNcbYniqpuFPMiDPWNcSNJwL3N8fa6fHY1Vg7eEWzyT6Fk4SE3+EsjqpH6QXxRWeaVf0kyvhZEksGLWE+yh2nZ25/QfaBJHjFdGDVgimpJ23dI\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-theme-aria",
+      "format": "1",
+      "version": "1.0.0.31",
+      "compatVersion": "4.2.0",
+      "creator": "Sencha",
+      "type": "theme",
+      "extend": "ext-theme-classic",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-07-05T23:32:38Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "n/kjCDvs3AY\u003d",
+          "signature": "A4fKTtnjuQsTPMMezdCXz0pknzhtNYVQ2Dfok5eOnkD3K7OL3/ITTgWTDw2NenTtsuLS5WLUpAPOqbYoVKjC560SgklZMDZMmGGAmL3VLWYFNpDDFYZUG/LIlvELM3SEeRF+DQdTBSipH3xPRqtp9XCNO/B+Ap0hiz0PaCRIYp4ce0FozhCaqzfcCqwWSXq2NCkzU56eMIMUXKw0BzBilhocGu7ObeH5NDkUEvqth2WiNNrtMseQ4NROewtjy1EKD63j6AcYZSvqmxAcvQ6MeZehY+dhqRDLItoowH3V73l+5wPdPF4YKs00Xl7nV5QoYWGgwlPcjaJpAt1M3YIkDxuxvCl8WduZVYcGANse77UMgUjpuOK52Kz6j7HBENHAcwvMVngv4lCq0S8hemIDR6OejVdYAxlOiS4vn0D5zjWRI83QCGsqcmTtW/3fTKdNE9Azqynlvu6bhc1WS/8tbu6+68PBli6/PiSv1VeBe9rmq1BfVBXu8LIQBulZ0V+gfJDzQQeukbPSSqgSIoDs7xdiJtEWyznUioNKiFpiBS2NK7M++gtZ9T9sHjkMwVE9bawv9N4nlwVKtpK5ZwfNyixhWcQ/wJ0G9w4VvS11KFBtbPmXaywqrNSNKN3X+rA2W+1IfN/YqKYaRONLOAph99lU7AiAxmRqxuZFY0420TE\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-theme-aria",
+      "format": "1",
+      "version": "1.0.0.86",
+      "compatVersion": "4.2.0",
+      "creator": "Sencha",
+      "summary": "ARIA Theme",
+      "detailedDescription": "A high-contrast accessibility theme based on Neptune",
+      "type": "theme",
+      "extend": "ext-theme-neptune",
+      "requires": [
+        "ext-aria"
+      ],
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-09-10T00:16:35Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "JaTcZvKaL7g\u003d",
+          "signature": "KbsvkqxsrQKxYzbLt0mws7xHsL1BFyPM3otybAHIBgZivDO4aEeF/4CsWrv7UKI9RZAdvB5f82rtj9J23xyAjEAANznox6lckFwozhD1+WOzbsi/26Zrh8AuwPRK5+aiwSRMuU61YNfOwFLQf2jwoJflMPpvRzZ/HryZqPnQoOxi+Had4+T8VAQ7yCcrF8jh8ugotOlM0dm+ieAAGcbTVRgbgxKarfpKCb6SO7jgeF2alZsisPFnRv5BrwnM172JYxxPzLOMy5IRfgdInaw/0ApHtJU5zIY7yUjBT2rf+9PlH0evZy9iN31vewnuD7qZQZIVOyE1c1q3uKklmmf8/xmUAbhn57H2dyj7lVZGx1gOkBdZVP717A01vywpDxR5cxapOwWRzQqtLahTnm4twqBhiKIJ1GqNlszisfHLacDY/H5pWOQhM5QCF8SfGGkNwK9rAx1UjQFaUGuHcZN+CAD6X6gKQncWOBpvvhofXB2DUpk4O5R14E0hZxBQr+4xtCig01HIv7/Mv7DWRFx3HXVZ949NP6UXqwCyBox8BMAVc+Wlc9ZLTykRfiIH1M9Jw/i3NQRHAy4YdYykZVUtUeEYF8/4b2P3G90C5+Rc5VY1ZIV9DqgT+Stfa80bLHJAZPFrP2BWCkM8VycqW6JiR/Gpw5oNKFm+RKXdWvu2UNg\u003d"
+        }
+      ]
+    },
+    {
+      "name": "ext-theme-neptune-charcoal",
+      "format": "1",
+      "version": "1.0.0.31",
+      "compatVersion": "1.0.0",
+      "creator": "Sencha",
+      "summary": "A neptune-based dark-gray theme",
+      "detailedDescription": "This theme package demonstrates how easy it is to customize the neptune theme by changing the $base-color",
+      "type": "theme",
+      "extend": "ext-theme-neptune",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2013-04-24T06:35:59Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "+68Lz0xBHB4\u003d",
+          "signature": "ioDKlKd5x8n0/mTZw5MgGULb5HLKYVxoVCN3yGh2tsaveF3iKWOEYQz7d7sL61Spwl3ub8s/FxotiIqLt7Jcu6BL3N+GmmEdIwQqSfYJdFyhM/Hq7r3L/8O1B8MPdfXs5ZcG/bS30Rrq5Nqm2dfzY3ZHBH4fBi5VaMXiI53VqNBYzz5pMD9Vb2gIjkFHVeD+UgZxghdFW/UWOhf5xypj3s5LueW/iInWLho+XwC2gvG/zuJwVxA2tl7ZW4THA9viImRGpInAsQxParzHEucE5KnTk18CxCpjLvFS33lbMsF0TlSq/VnFe5yMTvfuQ76uhNZeX+aiB68GkIoz20qtwBo4dyUzQbzqxqg+jRbSrdKKCKHbANqcr/WSVt6dHXWik669NPIWmnkOd6SPdeSxRVY1f+YrR+G1H4FKm17eSRK4+S0waTxFDjWxxruklN4sb3agHjzPA9VnzbThTflM6J9lwqklsWrjGr4rjAOQs1g5sDxb8/BW3KbBb6a4+AbxqWldNcnIhf92YzPJdaEGpQZDS+Zme1vaA+loQu9QRTGqZe8CVbCP4inSCIUOG9JHLYmggQrjuwKr9OBu4Yu5M9Zs1qcl0cv2OjsDalkSdhTvsLQrkIHEAN6HcVU/7NXfmqiwZf9j93x4makQlRuOGSQQfGPS+QU2I4hFD4QPfos\u003d"
+        }
+      ]
+    },
+    {
+      "name": "touch-azure",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "Sencha",
+      "summary": "Sencha Touch Extensions for Windows Azure",
+      "detailedDescription": "Sencha Touch Extensions for Windows Azure is an API designed to provide an easy way to develop Sencha Touch applications that can access the Windows Azure APIs using JavaScript.",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2014-01-06T18:54:17Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "E7cJ4HtlKYk\u003d",
+          "signature": "rl3JpDwkEOLu7KZAodiVx9bcbnQJ5lQ6UApl6FVtehIdGoJaAWze6bOMrtiZdfJbkX7SLermM85RvUXNRZLsF/9VGu8Ce5eJiERr3vEU+JIUuTsYNipn+KOHK6B0K9NHFZktA1yeSuE1QmO6gwW5aILIm/y4nG9sOvg/kFXALIVcRceD+91JzjpJs4aNHjnK8avCGoIWP8ZbTyijmUbUG0XdT8jHyfYeyD7T3VS+hGFUy/v1pBkOEv1Kc6Yx12gTDGsE/M7ppVbkgXG7C7tU9c3cfELhYOBBp/ocMS6tCqBSrxLbS+MIot2elOJOzO4yYNuEW8Ca4BuA5j7Y/p+RaRjn+SKGv59oXHZO/zyFBEx6qiOWGBOBDHlcYmeexC3nzegVvmvFV/hStclRcltlwQEmLSS1PcxGLuFuJzzp4WNjKZhHT370IGtiBfiG80RX4Xi0f9xgA602mUyXZAJtR8U0SlUtx8MasV6MfG6zBl/Lbc31FDotJfDZA7LfRdwRAVZkOXYKqPqW66eGe0pbYIZA2faVSnCX5UUx+SIqSNRNaX5oLJqtoGjaESBt778M34coinL9zGkxFGRcTibdd6uhQLURu8nxWS51SB3XZPxHY5NC2WBGdksZra1spUCBX5sw+d80W77q5E/jr7ZPfIEprEmjKGN3FE4UG41UQmI\u003d"
+        }
+      ]
+    }
+  ]
+}

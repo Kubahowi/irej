@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall Sencha Cmd
+Comment=Uninstall
+Icon=
+Exec=/root/bin/Sencha/Cmd/4.0.4.84/uninstall
+Terminal=false
+Path=/root/bin/Sencha/Cmd/4.0.4.84/uninstall
